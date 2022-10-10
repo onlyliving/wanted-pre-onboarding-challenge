@@ -1,0 +1,15 @@
+.link {
+    width: 100%;
+    display: block;
+    border-bottom: 1px solid #474747;
+    cursor: pointer;
+    font-size: 18px;
+    padding: 24px;
+    text-align: left;
+    font-weight: bold;
+    
+}
+.link:hover {
+    opacity: 0.6;
+    transition-duration: 0.2s;
+}
